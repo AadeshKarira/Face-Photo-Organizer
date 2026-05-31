@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.pytest_cache/
+.python-version
+
+# Virtual environment
+venv/
+.venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# InsightFace model downloads
+.insightface/
+
+# Output folders
+test-images-output/
+
+# Logs
+*.log
+
+# Report files
+report.json
